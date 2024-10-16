@@ -1,5 +1,5 @@
 ## Sobre mim
-Me chamo Renan, tenho 20 anos. Atualmente estudando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia Rubens Lara (FATEC) e trabalho como desenvoledor fullstack júnior em uma empresa de consultoria de software
+Me chamo Renan, tenho 21 anos. Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia Rubens Lara (FATEC) e trabalho como desenvolvedor fullstack júnior em uma empresa de consultoria de software
 
 ## Conhecimento
 <div style="display: inline_block">
